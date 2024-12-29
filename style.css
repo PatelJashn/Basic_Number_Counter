@@ -1,0 +1,25 @@
+#label{
+    margin: 400px 700px;
+    padding-top: 500px;
+    font-size: 100px;
+}
+#B1{
+    margin-right:20px ;
+    margin-left: 520px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: rgba(120, 105, 250, 0.923);
+}
+#B2{
+    font-size: 30px;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: rgba(120, 105, 250, 0.923);
+
+}
+#B3{
+    font-size: 30px;
+    padding: 10px;
+    background-color: rgba(120, 105, 250, 0.923);
+
+}
